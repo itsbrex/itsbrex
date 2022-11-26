@@ -19,7 +19,7 @@ I am also working on a couple music tool side-projects in my free time. 🙂
 - Project Manager at **[BMG](https://brexmediagroup.com/)** in 2018 - 2020
 - Product Manager at **[Karmaship](https://karmaship.io/)** 2017 - 2018
 - Product Manager **[Blend.io](https://blend.io/)** 
-- 🎵🔊 Musician at **[itsbrex](https://instagram.com/itsbrex/)** in my free time
+- Musician at **[itsbrex](https://instagram.com/itsbrex/)** in my free time
 
 #### Current Interests 🌱
 
