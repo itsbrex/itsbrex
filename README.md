@@ -7,8 +7,7 @@ I love building things fast and learning as I go. But more importantly, I'm alwa
 
 Currently, I'm building operational infrastructure to scale [Bigo Live North America](https://bigo.tv)'s partner management efforts which has included building various internal apps, portals, API integrations, and ETL pipelines primarily between Hive -> Google Sheets. I've been using mostly [Redwood.js](https://redwoodjs.org/) & [Next.js](https://nextjs.org/) because I am ***in love*** with the <u>developer experience</u> and how fast I can spin up a new project. 
 
-We do the majority of our data analysis in Google Sheets, with the exception of several [Connected Sheets](https://cloud.google.com/bigquery/docs/connected-sheets) I've used to run & analyze millions of rows of data using BigQuery, as well as some fun image classification using Google's [Cloud Vision API](https://cloud.google.com/vision). Additionally, I integrated the AWS SDK into Google App Script so we could send mass emails using [Amazon Simple Email Service (SES)](https://aws.amazon.com/ses/), while managing our contact list in Google Sheets where the majority of our team lived and worked.
-
+We do the majority of our data analysis in Google Sheets, with the exception of several [Connected Sheets](https://cloud.google.com/bigquery/docs/connected-sheets) I've used to run & analyze millions of rows of data using BigQuery, as well as some fun image classification using Google's [Cloud Vision API](https://cloud.google.com/vision). Additionally, I integrated the AWS SDK into Google App Script so we could send mass emails using [Amazon's Simple Email Service (SES)](https://aws.amazon.com/ses/), while managing our contact list in Google Sheets where the majority of our team lived and worked.
 
 
 #### Work 🔭
