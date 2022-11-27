@@ -1,14 +1,13 @@
-###  Hey there 👋 I'm Brian
+###  Hey there 👋 I'm Brian Roach
+
 
 #### About 🌏
 
-I love building things fast, and learning as I go, but more importantly I'm always looking for ways to make my projects more efficient and easier to use. 
+I love building things fast and learning as I go. But more importantly, I'm always looking for ways to make my projects more efficient and easier to use. 
 
 Currently, I'm building operational infrastructure to scale [Bigo Live North America](https://bigo.tv)'s partner management efforts which has included building various internal apps, portals, API integrations, and ETL pipelines primarily between Hive -> Google Sheets. I've been using mostly [Redwood.js](https://redwoodjs.org/) & [Next.js](https://nextjs.org/) because I am ***in love*** with the <u>developer experience</u> and how fast I can spin up a new project. 
 
 We do the majority of our data analysis in Google Sheets, with the exception of several [Connected Sheets](https://cloud.google.com/bigquery/docs/connected-sheets) I've used to run & analyze millions of rows of data using BigQuery, as well as some fun image classification using Google's [Cloud Vision API](https://cloud.google.com/vision). Additionally, I integrated the AWS SDK into Google App Script so we could send mass emails using [Amazon Simple Email Service (SES)](https://aws.amazon.com/ses/), while managing our contact list in Google Sheets where the majority of our team lived and worked.
-
-I am also working on a couple music tool side-projects in my free time. 🙂
 
 
 
@@ -19,7 +18,7 @@ I am also working on a couple music tool side-projects in my free time. 🙂
 - Project Manager at **[BMG](https://brexmediagroup.com/)** in 2018 - 2020
 - Product Manager at **[Karmaship](https://karmaship.io/)** 2017 - 2018
 - Product Manager **[Blend.io](https://blend.io/)** 
-- Musician at **[itsbrex](https://instagram.com/itsbrex/)** in my free time
+- Musician at **[itsbrex](https://instagram.com/itsbrex/)** in my free time 🙂
 
 #### Current Interests 🌱
 
@@ -35,7 +34,7 @@ I am also working on a couple music tool side-projects in my free time. 🙂
 
 - Frontend Development
 - Tech Transformation
-- Growth Automation
+- Growth Engineering / Automation
 - UI Design
 - Audio / Visual Production
 
@@ -54,7 +53,7 @@ I am also working on a couple music tool side-projects in my free time. 🙂
 <a href="https://linkedin.com/in/itsbrianroach" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/itsbrex" target="_blank">
+<!-- <a href="https://instagram.com/itsbrex" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/itsbrex" target="_blank">
@@ -65,7 +64,7 @@ I am also working on a couple music tool side-projects in my free time. 🙂
 </a>
 <a href="https://www.youtube.com/user/itsbrex" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
 </div>  
 
 #### **Fun facts ⚡**
@@ -82,8 +81,7 @@ I am also working on a couple music tool side-projects in my free time. 🙂
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="33%">
-
+<table align="center"><tr><td valign="top" width="33%">
 
 
 ### Frontend
