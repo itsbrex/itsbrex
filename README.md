@@ -1,23 +1,26 @@
 ###  Hey there 👋 I'm Brian Roach
 
+I'm passionate about leveraging the latest tools, technologies, and frameworks to develop high-quality solutions quickly. With my meticulous attention to detail and creative problem solving skills combined with the wealth of resources available through open source software, I am committed to driving continuous improvement (1% better every day!) in our processes and producing products that make a real difference in people's lives.
 
-#### About 🌏
+### 👉️ Are you hiring? 👀
 
-I love building things fast and learning as I go. But more importantly, I'm always looking for ways to make my projects more efficient and easier to use. 
+If you're hiring, please reach out!
 
-Currently, I'm building operational infrastructure to scale [Bigo Live North America](https://bigo.tv)'s partner management efforts which has included building various internal apps, portals, API integrations, and ETL pipelines primarily between Hive -> Google Sheets. I've been using mostly [Redwood.js](https://redwoodjs.org/) & [Next.js](https://nextjs.org/) because I am ***in love*** with the <u>developer experience</u> and how fast I can spin up a new project. 
+<a href="https://linkedin.com/in/itsbrianroach" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-We do the majority of our data analysis in Google Sheets, with the exception of several [Connected Sheets](https://cloud.google.com/bigquery/docs/connected-sheets) I've used to run & analyze millions of rows of data using BigQuery, as well as some fun image classification using Google's [Cloud Vision API](https://cloud.google.com/vision). Additionally, I integrated the AWS SDK into Google App Script so we could send mass emails using [Amazon's Simple Email Service (SES)](https://aws.amazon.com/ses/), while managing our contact list in Google Sheets where the majority of our team lived and worked.
+<br>
 
 
 #### Work 🔭
 
-- Operations Manager - Growth at **[Bigo Live](https://bigo.tv/)** 2022 - present
-- Growth Strategist at **[Klientboost](https://klientboost/)** in 2021
-- Project Manager at **[BMG](https://brexmediagroup.com/)** in 2018 - 2020
+- Operations Manager - Growth at **[Bigo Live](https://bigo.sg/)** Nov, 2021 - Dec, 2022
+- Growth Strategist at **[Klientboost](https://klientboost.com/)** 2021
+- Project Manager at **[BMG](https://brexmediagroup.com/)**  2018 - 2020
 - Product Manager at **[Karmaship](https://karmaship.io/)** 2017 - 2018
 - Product Manager **[Blend.io](https://blend.io/)** 
-- Musician at **[itsbrex](https://instagram.com/itsbrex/)** in my free time 🙂
+- Musician at **[itsbrex](https://spoti.fi/3HwXb6a)** in my free time 🙂
 
 #### Current Interests 🌱
 
@@ -31,10 +34,10 @@ We do the majority of our data analysis in Google Sheets, with the exception of 
 
 #### Ask me about 💬
 
+- DevOps
 - Frontend Development
 - Tech Transformation
 - Growth Engineering / Automation
-- UI Design
 - Audio / Visual Production
 
 #### Get in touch 📫
