@@ -10,6 +10,7 @@ If you're hiring, please reach out! 🙏
 
 #### **Work** 🔭
 
+- 🏥 Back Surgery 12/23 - ETA Return to Work - Late January '23
 - Operations Manager - Growth at **[Bigo Live](https://bigo.sg/)** Nov, 2021 - Dec, 2022
 - Growth Strategist at **[Klientboost](https://klientboost.com/)** 2021
 - Project Manager at **[BMG](https://brexmediagroup.com/)** 2018 - 2020
