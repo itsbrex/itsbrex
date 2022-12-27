@@ -1,9 +1,3 @@
-### Hey there 👋 I'm Brian Roach
-
-I'm passionate about leveraging the latest tools, technologies, and frameworks to develop high-quality solutions quickly. With my meticulous attention to detail and creative problem solving skills combined with the wealth of resources available through open source software, I am committed to driving continuous improvement (1% better every day!) in our processes and producing products that make a real difference in people's lives.
-
-<br>
-
 ### 👉️ **Are you hiring?** 👀
 
 If you're hiring, please reach out! 🙏
@@ -30,16 +24,16 @@ If you're hiring, please reach out! 🙏
 - **[Tailwind CSS](https://tailwindcss.com/)**
 - Developer Experience Tools
 - AI use in Knowledge Management
+- Machine Learning 🤗
 - Graph Theory // GraphQL
 - Serverless Architecture
 
 #### **Ask me about** 💬
 
-- DevOps
+- DevOps / Infra
 - Frontend Development
-- Tech Transformation
 - Growth Engineering / Automation
-- Audio / Visual Production
+- Audio / Visual Systems & Engineering
 
 #### **Get in touch** 📫
 
