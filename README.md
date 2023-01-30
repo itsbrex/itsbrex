@@ -69,7 +69,7 @@ If you're hiring, please reach out! 🙏
 #### **Fun facts** ⚡
 
 - I occasionally produce Music using **[Ableton Live](https://ableton.com/)** and make visuals in [**Resolume**](https://resolume.com/)
-- I have a dog named Roland 🐶
+- I ~~have~~ had a dog named Roland 🐶 (RIP 1/17/23 😢)
 
 <br>
 
