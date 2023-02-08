@@ -1,6 +1,6 @@
-### 👉️ **Are you hiring?** 👀
+### 👉️ **Are you hiring PMs?** 👀
 
-If you're hiring, please reach out! 🙏
+If so, please reach out on LinkedIn! 🙏
 
 <a href="https://linkedin.com/in/itsbrianroach" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
