@@ -1,6 +1,8 @@
-### 👉️ **Are you hiring PMs?** 👀
+<img width="1834" alt="github readme" src="https://user-images.githubusercontent.com/9772694/221646955-e618bb0f-d564-449e-b2d6-bde430e30ed6.png">
 
-If so, please reach out on LinkedIn! 🙏
+### 👉️ **Are you hiring?** 👀
+
+If so, lets chat! 🙏
 
 <a href="https://linkedin.com/in/itsbrianroach" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -10,7 +12,6 @@ If so, please reach out on LinkedIn! 🙏
 
 #### **Work** 🔭
 
-- 🏥 Back Surgery 12/23 - ETA Available to Return to Work - Late January '23
 - Operations Manager - Growth at **[Bigo Live](https://bigo.sg/)** Nov, 2021 - Dec, 2022
 - Growth Strategist at **[Klientboost](https://klientboost.com/)** 2021
 - Project Manager at **[BMG](https://brexmediagroup.com/)** 2018 - 2020
