@@ -1,53 +1,46 @@
-<img width="1834" alt="github readme" src="https://user-images.githubusercontent.com/9772694/221646955-e618bb0f-d564-449e-b2d6-bde430e30ed6.png">
+<img width="1834" alt="github_readme" src="https://github.com/itsbrex/itsbrex/assets/9772694/70b35a5d-0f8b-4a1a-a692-eda5f696ab38">
 
-
-#### **Get in touch** 📫
-
-<!-- - Mail: **[hi@itsbrex.dev](mailto:hi@itsbrex.dev)** -->
-
-- Linkedin: [**Brian Roach**](https://www.linkedin.com/in/itsbrianroach/)
-  <!-- - Personal site: **[itsbrex.dev](https://itsbrex.dev/)** -->
-<!--   <div align="center"> -->
-  <a href="https://github.com/itsbrex" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/itsbrex" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/itsbrianroach" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <!-- <a href="https://instagram.com/itsbrex" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://dev.to/itsbrex" target="_blank">
-  <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://hashnode.com/@itsbrex" target="_blank">
-  <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.youtube.com/user/itsbrex" target="_blank">
-  <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-  </a>   -->
-<!--   </div> -->
+<div align="center">
+<!-- <a href="https://github.com/itsbrex" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+</a> • --> 
+<a href="https://twitter.com/itsbrex" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+</a>
+<a href="https://linkedin.com/in/itsbrex" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:%68%69%40%69%74%73%62%72%65%78%2e%64%65%76?subject=Found%20you%20on%20GitHub%20-%20let's%20connect!&body=Hi%20Brian-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub%20and%20wanted%20to...">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+<!-- <a href="https://instagram.com/itsbrex" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+</a>   -->
+<!-- <a href="https://codepen.com/itsbrex" target="_blank">
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" style="margin-bottom: 5px;" />
+</a> 
+<a href="https://www.youtube.com/user/itsbrex" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
+</a>   -->
+</div>
+<br>
+<div align="center">
+📫 For all inquiries, please reach out via email or LinkedIn buttons above.
+</div>
 
 #### **Fun facts** ⚡
 
-- I occasionally produce Music using **[Ableton Live](https://ableton.com/)** and make visuals in [**Resolume**](https://resolume.com/). You can check out some of my music on [Spotify](https://spoti.fi/3HwXb6a).
+- I occasionally produce Music using **[Ableton Live](https://ableton.com/)** and make my own visuals in [**Resolume**](https://resolume.com/). You can check out some of my music on [Spotify](https://spoti.fi/3HwXb6a).
 
 <br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=itsbrex&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br>
-
-#### **Current Dev Tools**
+<!-- #### **Current Dev Tools**
 
 - [How I VSCode](https://howivscode.com/itsbrex)
 
-<br>
+<br> -->
 
-## My Skill Set
+## A non-exhaustive list...
 
 <table align="center"><tr><td valign="top" width="33%">
 
