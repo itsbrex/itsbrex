@@ -1,4 +1,4 @@
-<img width="1834" alt="github_readme" src="https://github.com/itsbrex/itsbrex/assets/9772694/70b35a5d-0f8b-4a1a-a692-eda5f696ab38">
+<img width="1834" alt="github_readme" src="https://github.com/itsbrex/itsbrex/assets/9772694/deb25d21-b947-45bb-9662-9c49d0609fed">
 
 <div align="center">
 <!-- <a href="https://github.com/itsbrex" target="_blank">
@@ -23,7 +23,12 @@
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
 </a>   -->
 </div>
-<br>
+
+<!-- #### **Current Dev Tools**
+
+- [How I VSCode](https://howivscode.com/itsbrex)
+
+<br> -->
 <div align="center">
 📫 For all inquiries, please reach out via email or LinkedIn buttons above.
 </div>
@@ -31,15 +36,6 @@
 #### **Fun fact** ⚡
 
 - I occasionally produce Music using **[Ableton Live](https://ableton.com/)** and make my own visuals in [**Resolume**](https://resolume.com/). You can check out some of my music on [Spotify](https://spoti.fi/3HwXb6a).
-
-<br>
-
-<!-- #### **Current Dev Tools**
-
-- [How I VSCode](https://howivscode.com/itsbrex)
-
-<br> -->
-
 ## A non-exhaustive list...
 
 <table align="center"><tr><td valign="top" width="33%">
