@@ -28,11 +28,11 @@
 
 - [How I VSCode](https://howivscode.com/itsbrex)
 
-<br> -->
+<br> 
 <div align="center">
 📫 For all inquiries, please reach out via email or LinkedIn buttons above.
 </div>
-
+-->
 #### **Fun fact** ⚡
 
 - I occasionally produce Music using **[Ableton Live](https://ableton.com/)** and make my own visuals in [**Resolume**](https://resolume.com/). You can check out some of my music on [Spotify](https://spoti.fi/3HwXb6a).
