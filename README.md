@@ -1,4 +1,5 @@
-<img width="1834" alt="github_readme" src="https://github.com/itsbrex/itsbrex/assets/9772694/deb25d21-b947-45bb-9662-9c49d0609fed">
+<!--
+<img width="1834" alt="github_readme" src="https://github.com/itsbrex/itsbrex/assets/9772694/deb25d21-b947-45bb-9662-9c49d0609fed"> -->
 
 <div align="center">
 <!-- <a href="https://github.com/itsbrex" target="_blank">
@@ -16,9 +17,11 @@
 <!-- <a href="https://instagram.com/itsbrex" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a>   -->
-<!-- <a href="https://codepen.com/itsbrex" target="_blank">
+ <a href="https://codepen.com/itsbrex" target="_blank">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" style="margin-bottom: 5px;" />
 </a> 
+
+<!--
 <a href="https://www.youtube.com/user/itsbrex" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
 </a>   -->
@@ -27,16 +30,16 @@
 <!-- #### **Current Dev Tools**
 
 - [How I VSCode](https://howivscode.com/itsbrex)
-
+-->
 <br> 
 <div align="center">
-📫 For all inquiries, please reach out via email or LinkedIn buttons above.
+📫 Open to new opportunities. Available to chat via links above.
 </div>
--->
+
 #### **Fun fact** ⚡
 
 - I occasionally produce Music using **[Ableton Live](https://ableton.com/)** and make my own visuals in [**Resolume**](https://resolume.com/). You can check out some of my music on [Spotify](https://spoti.fi/3HwXb6a).
-## A non-exhaustive list...
+<!-- ## A non-exhaustive list...
 
 <table align="center"><tr><td valign="top" width="33%">
 
@@ -76,7 +79,7 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td></tr></table>
+</td></tr></table> -->
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=anodigital&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=1cb955" /></div>
 
