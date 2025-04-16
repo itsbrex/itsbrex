@@ -11,7 +11,7 @@ I am passionate about workflow automation, music and creating products that easy
 > Available for consulting. Please reach out! &nbsp; [![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:%68%69%40%69%74%73%62%72%65%78%2e%64%65%76?subject=Found%20you%20on%20GitHub%20-%20let's%20connect!&body=Hi%20Brian-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub%20and%20wanted%20to...)
 ## 🌟 What I do
 
-- Product Manager, Automation and Workflow Systems
+- Product Engineer, Rapid Prototyping, Enterprise Workflow Automation
 - Prev. CTO at [Starchild Music](https://starchildmusic.ai/), Prev. Technical Product Manager at [Bigo Live](https://www.linkedin.com/company/bigo-technology-pte.-ltd./), Prev. Product Manager at [Blend.io](https://blend.io/)
 - MBA from UCSD Rady School of Management.
 - Technical Product Manager with 8+ years of experience who also codes a lot.
