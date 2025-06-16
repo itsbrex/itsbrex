@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/itsbrex/itsbrex/blob/main/assets/brian_.png?raw=true" width="40%" height="40%" style="border-radius: 50%;" />
-
 ## Hey, I'm Brian 👋
 
 > *Creating **agentic** software that can create new software.*
